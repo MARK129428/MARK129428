@@ -18,7 +18,7 @@
 
 ## 🛠️ My Tech Stack
 
-### Frontend
+### 🖥️ Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -33,7 +33,7 @@
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Microapp](https://img.shields.io/badge/Microapp-0091FF?style=for-the-badge&logo=wechat&logoColor=white)
 
-### Backend
+### ⚙️ Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MyBatis-Plus](https://img.shields.io/badge/MyBatis-Plus-008000?style=for-the-badge&logo=mybatis&logoColor=white)
@@ -46,7 +46,7 @@
 ![Seata](https://img.shields.io/badge/Seata-FF5722?style=for-the-badge&logo=seata&logoColor=white)
 ![OpenResty](https://img.shields.io/badge/OpenResty-2E3A87?style=for-the-badge&logo=nginx&logoColor=white)
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
