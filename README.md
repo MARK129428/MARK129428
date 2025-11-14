@@ -67,4 +67,8 @@
 
 ---
 
+![MARK129428's Activity Graph](https://activity-graph.herokuapp.com/graph?username=MARK129428&theme=react-dark&hide_border=true)
+
+---
+
 ✨ **Let's build something amazing together!**
